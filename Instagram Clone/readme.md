@@ -5,6 +5,3 @@ It is used to perform data analysis for real world business related questions an
 + launching campaign to target the weekdays with the most user registerations
 + encouraging inactive users to log in back to the system
 + etc. 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
